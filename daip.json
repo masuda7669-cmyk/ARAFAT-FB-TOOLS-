@@ -8,7 +8,13 @@
     {
         "device_id": "b902d7b5c13594c2",
         "key": "0000",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
-    }
+    },    
+    {
+        "device_id": "48257e1349319149",
+        "key": "1111",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
