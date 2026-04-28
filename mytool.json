@@ -42,4 +42,11 @@
         "expirydate": "05-05-2026",
         "Allowoffline": false
     },   
+    
+    {
+        "device_id": "229cbe433f7ef57b",
+        "key": "pronoy123",
+        "expirydate": "01-05-2026",
+        "Allowoffline": false
+    },   
 ]
