@@ -84,21 +84,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "8c71a57013ee2e1b uid",
-        "key": "1146",
-        "expirydate": "10-07-2026",
+        "device_id": "9995da3f5b6e2770",
+        "key": "5577",
+        "expirydate": "10-07-2027",
         "Allowoffline": false
     },
-     {
-        "device_id": "9995da3f5b6e2770 uid",
-        "key": "sojib&6780044",
-        "expirydate": "30-05-2026",
-        "Allowoffline": false
-    }, 
-    {
-        "device_id": "71b9bd4cf2c0d662 uid",
-        "key": "Alifk2233",
-        "expirydate": "30-05-2026",
-        "Allowoffline": false
-    }, 
-]
+    
