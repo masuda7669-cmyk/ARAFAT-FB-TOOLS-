@@ -95,5 +95,10 @@
         "expirydate": "10-07-2027",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "db55dafabbb26f5f",
+        "key": "112233",
+        "expirydate": "10-07-2027",
+        "Allowoffline": false
+    },
 ]
