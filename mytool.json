@@ -160,5 +160,11 @@
         "key": "1041",
         "expirydate": "10-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "efe766b77c515fda",
+        "key": "1K41",
+        "expirydate": "10-06-2027",
+        "Allowoffline": false
     }, 
 ]
